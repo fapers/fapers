@@ -1,5 +1,5 @@
 - 👋 Oi, Eu sou o @fapers - Fábio Pereira de Souza.
-- 👀 Estou interessado em aprender Pesquisa Operacional, Inteligência Computacional, Ciências de Dados e Desenvolvimento de Games.
+- 👀 Estou interessado em Pesquisa Operacional, Inteligência Computacional, Ciências de Dados e Desenvolvimento de Games.
 - 🌱 Estou aprendendo atualmente a linguagem Python para utilização na Estatística e em meu projeto de mestrado PPGMCS.
 - 💞️ Não estou colaborando em nenhum projeto atualmente.
 - 📫 Sou técnico em agropecuária, técnico em informática;
