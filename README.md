@@ -6,7 +6,7 @@
 - 📫 Matemático, analista e desenvolvedor de sistemas;
 - 📫 Pós graduado em Engenharia de Sistemas;
 - 📫 Pós graduando no ensino de matemática;
-- 📫 Mestrando em modelagem computacional e sistemas.
+- 📫 Mestrando em modelagem computacional e sistemas PPGMCS.
 - Sou professor de matemática para o ensino médio em escola pública estadual de Minas Gerais.
 
 <!---
